@@ -1,2 +1,3 @@
 # HorseRanker
-A research project to enhance the ranking of Horses
+A research project to enhance the ranking of Horses and facilitate Handicapping.
+Much more to come...
